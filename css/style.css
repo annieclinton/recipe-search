@@ -1,0 +1,90 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+.startImg{
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+header{
+  background-color: rgb(249, 242, 238);
+  margin-top: 10px;
+  height: 140px;
+}
+
+h1,h5{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+  text-align: center;
+}
+
+h1{
+  margin-top: 0px;
+  padding-top: 10px;
+}
+
+h2,h3,button,input{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  text-align: center;
+}
+
+h2{
+  margin: 20px;
+  text-align: left;
+}
+
+#recipeImg{
+  margin: 20px;
+}
+
+h4{
+  font-size: 1.5rem;
+  font-style: italic;
+  text-align: center;
+}
+
+input{
+  text-align: left;
+}
+
+#search{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+#recipe{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button,input{
+  margin: 5px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+.hidden{
+  display: none;
+}
