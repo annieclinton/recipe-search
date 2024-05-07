@@ -4,7 +4,7 @@
 
 This  web application is designed to assist culinary enthusiasts in finding delicious recipes simply by entering a keyword. Users can search for ingredients like "chicken," "breakfast," or "zucchini" and the application will provide a relevant recipe, including a list of ingredients and a representative image. 
 
-**Link to project:** TBD  
+**Link to project:** https://api-recipe-search.netlify.app/ 
 
 ## How It's Made:
 
